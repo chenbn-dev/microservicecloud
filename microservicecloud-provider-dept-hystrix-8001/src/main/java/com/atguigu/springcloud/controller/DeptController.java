@@ -42,7 +42,7 @@ public class DeptController {
 //        return dept;
         return new Dept().setDeptno(id)
                 .setDname("该ID："+id+"没有没有对应的信息,null--@HystrixCommand")
-                .setDb_source("no this database in MySQL");
+                .setDb_source("no this database in MySQL"); 
 
     }
 
