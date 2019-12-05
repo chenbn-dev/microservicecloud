@@ -24,6 +24,6 @@ eureka:
 info: #可写可不写
   app.name: atguigu-microcloud
   company.name: www.atguigu.com
-  build.artifactId: $project.artifactId$
-  build.version: $project.version$
+  build.artifactId: microservicecloud-zuul-gateway-9527
+  build.version: 0.0.1-SNAPSHOT
 

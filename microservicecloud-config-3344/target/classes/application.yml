@@ -3,7 +3,7 @@ server:
   
 spring:
   application:
-    name:  microservicecloud-config
+    name: microservicecloud-config
   cloud:
     config:
       server:
