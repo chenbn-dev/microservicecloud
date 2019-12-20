@@ -16,6 +16,3 @@
 /microservicecloud-provider-dept-hystrix-8001/target/
 /microservicecloud-zuul-gateway-9527/target/
 *.iml
-
-
-
